@@ -1,0 +1,10 @@
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe.config
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.exe
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorConsoleTest.pdb
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.dll
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\bin\Debug\CalculatorMachine.pdb
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csprojAssemblyReference.cache
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.csproj.CopyComplete
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.exe
+C:\Users\amikom\Desktop\01 latihan\CalculatorConsoleTest\obj\Debug\CalculatorConsoleTest.pdb
